@@ -1,0 +1,483 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a6f52c1c348f25fb5f229431dd369405/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/41d6d43f04b1b726eef1fca39e55a54d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/998089de60d9a08d25e4398c8e838b35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/e8c16336851777c57c1e6706a559d8cb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d6bcee569cfb70b9bb62bf9e91683592/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.faranjit:currency-edittext:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/fd4417cb441ae10b3dd6d1e728d0f5d7/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/435ae9d731656a360cac5224c9624ce2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e223e75688b770932a8ee3d355f486eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/50b4d2e4f2342f9a630d108419048450/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/4e7b0508fdd65dec710932d7de87e39b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e42fedf6977892fa200407e10d5c8523/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/02bf7ed39cc5b409b03c263b4e2efc4a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/730c6de875375c5897d73867c1b421fc/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/7607eef9373926b32d336edcfd0b9161/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/130229f5845d686e869c3985009b0d4b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc2809d26320d76bad15381b49c43720/AndroidManifest.xml:2:1-13:12
+MERGED from [com.joooonho:selectableroundedimageview:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/c06294f33a70ca7396742f39e9a7a4dd/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/13d96850501df30fb690987dc067638d/AndroidManifest.xml:15:1-21:12
+MERGED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:17:1-30:12
+MERGED from [com.wang.avi:library:2.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/7a434dde300475c080becc51abc704e8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/2c9b1f1e39978642bc40cc393c2b4236/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a4c8e6254de110cd0589e10224ed9e02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fe26001afb237b20f1abdd46bd89b316/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d36fbf95dc45300fcc46d1cdf18ee0d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/9bacb73de9fae4b43312c71e7d1895e9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d53d08034fbe09f3f08ef5db293efed0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/47183db8e1bfb9c000e0d7ed83d21149/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a32b5b35a691aca1590c21731a97b164/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7778c4be03ef67b37a3c08f28144a200/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c340e7e5547c57c34632f6d65bef5b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fe528bf8dfc4bd69dc8f207622ec09a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/645c1af95e85a3a53dc53c77ff1131ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/3170a245ad5f4756812bf20634907c5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bb85bc501cfa21ba2ac97f52c8f4989c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc423d4d4e7ace40ad2168c147311da6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a023896a2d1af773aa31d9c6a8c765f3/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/aa9af68d17426a94951964eca0e7612d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e5b8445a1248c049f87cc71bdbd89d97/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cc1304d102c5c0644bf46a2da5f3bc00/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/1a73d8b511a21c1fa3c5e8ef0778cbe3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cd3f2f118d11a3d69f7dbdffeebac720/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/ed4af5faa761482ba679aba554172877/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/3bf0417386797a8d90b15b44f6ccf437/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/f178e043b89938de42ad6fd2c53175b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/842d5002a9bcd77df8d99ddb92a22624/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/c945751546f7918f0d683c7dc5c6647a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/00bc986053d219454846c56efd6cb638/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bfd645f1f6c34f0894990bf8d571a03e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/82d9435bc97482f1fad9ca845d222e26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/83c1ea964bf3731837df48f14b26b53d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5437e51d48c6e054c74b6c54bc1a47ac/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/94cf918c272561ff3810b8136ebfe8d5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/822d8c877b4d260995d0ef5d744feac7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c6a68392aa0d2baae396b408a56ea57/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e32833f271d60797b288980a4530e4e3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/0ddde2c47254afef8f3ab63dcc5aa223/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/906275721b85703cddfbf20d738e7368/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/55c23395bbdc0e77b94880feb569e231/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:6:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a6f52c1c348f25fb5f229431dd369405/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a6f52c1c348f25fb5f229431dd369405/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/41d6d43f04b1b726eef1fca39e55a54d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/41d6d43f04b1b726eef1fca39e55a54d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/e8c16336851777c57c1e6706a559d8cb/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/e8c16336851777c57c1e6706a559d8cb/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d6bcee569cfb70b9bb62bf9e91683592/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d6bcee569cfb70b9bb62bf9e91683592/AndroidManifest.xml:22:5-20
+MERGED from [com.github.faranjit:currency-edittext:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/fd4417cb441ae10b3dd6d1e728d0f5d7/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.faranjit:currency-edittext:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/fd4417cb441ae10b3dd6d1e728d0f5d7/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/7607eef9373926b32d336edcfd0b9161/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/7607eef9373926b32d336edcfd0b9161/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/130229f5845d686e869c3985009b0d4b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/130229f5845d686e869c3985009b0d4b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc2809d26320d76bad15381b49c43720/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc2809d26320d76bad15381b49c43720/AndroidManifest.xml:11:5-20
+MERGED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a023896a2d1af773aa31d9c6a8c765f3/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a023896a2d1af773aa31d9c6a8c765f3/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e5b8445a1248c049f87cc71bdbd89d97/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e5b8445a1248c049f87cc71bdbd89d97/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cc1304d102c5c0644bf46a2da5f3bc00/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cc1304d102c5c0644bf46a2da5f3bc00/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/94cf918c272561ff3810b8136ebfe8d5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/94cf918c272561ff3810b8136ebfe8d5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/822d8c877b4d260995d0ef5d744feac7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/822d8c877b4d260995d0ef5d744feac7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c6a68392aa0d2baae396b408a56ea57/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c6a68392aa0d2baae396b408a56ea57/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e32833f271d60797b288980a4530e4e3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e32833f271d60797b288980a4530e4e3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/0ddde2c47254afef8f3ab63dcc5aa223/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/0ddde2c47254afef8f3ab63dcc5aa223/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/906275721b85703cddfbf20d738e7368/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/906275721b85703cddfbf20d738e7368/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/55c23395bbdc0e77b94880feb569e231/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/55c23395bbdc0e77b94880feb569e231/AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a023896a2d1af773aa31d9c6a8c765f3/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:8:9-52
+activity#com.example.kaanapos.MainActivity
+ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a6f52c1c348f25fb5f229431dd369405/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a6f52c1c348f25fb5f229431dd369405/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/41d6d43f04b1b726eef1fca39e55a54d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/41d6d43f04b1b726eef1fca39e55a54d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/998089de60d9a08d25e4398c8e838b35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/998089de60d9a08d25e4398c8e838b35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/e8c16336851777c57c1e6706a559d8cb/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/e8c16336851777c57c1e6706a559d8cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d6bcee569cfb70b9bb62bf9e91683592/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d6bcee569cfb70b9bb62bf9e91683592/AndroidManifest.xml:20:5-44
+MERGED from [com.github.faranjit:currency-edittext:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/fd4417cb441ae10b3dd6d1e728d0f5d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.faranjit:currency-edittext:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/fd4417cb441ae10b3dd6d1e728d0f5d7/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/435ae9d731656a360cac5224c9624ce2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/435ae9d731656a360cac5224c9624ce2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e223e75688b770932a8ee3d355f486eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e223e75688b770932a8ee3d355f486eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/50b4d2e4f2342f9a630d108419048450/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/50b4d2e4f2342f9a630d108419048450/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/4e7b0508fdd65dec710932d7de87e39b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/4e7b0508fdd65dec710932d7de87e39b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e42fedf6977892fa200407e10d5c8523/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e42fedf6977892fa200407e10d5c8523/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/02bf7ed39cc5b409b03c263b4e2efc4a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/02bf7ed39cc5b409b03c263b4e2efc4a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/730c6de875375c5897d73867c1b421fc/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/730c6de875375c5897d73867c1b421fc/AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/7607eef9373926b32d336edcfd0b9161/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/7607eef9373926b32d336edcfd0b9161/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/130229f5845d686e869c3985009b0d4b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/130229f5845d686e869c3985009b0d4b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc2809d26320d76bad15381b49c43720/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc2809d26320d76bad15381b49c43720/AndroidManifest.xml:7:5-9:41
+MERGED from [com.joooonho:selectableroundedimageview:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/c06294f33a70ca7396742f39e9a7a4dd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.joooonho:selectableroundedimageview:1.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/c06294f33a70ca7396742f39e9a7a4dd/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/13d96850501df30fb690987dc067638d/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/13d96850501df30fb690987dc067638d/AndroidManifest.xml:19:5-43
+MERGED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:20:5-22:41
+MERGED from [com.wang.avi:library:2.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/7a434dde300475c080becc51abc704e8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /home/nithin/.gradle/caches/transforms-2/files-2.1/7a434dde300475c080becc51abc704e8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/2c9b1f1e39978642bc40cc393c2b4236/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/2c9b1f1e39978642bc40cc393c2b4236/AndroidManifest.xml:20:5-43
+MERGED from [androidx.media:media:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a4c8e6254de110cd0589e10224ed9e02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a4c8e6254de110cd0589e10224ed9e02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fe26001afb237b20f1abdd46bd89b316/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fe26001afb237b20f1abdd46bd89b316/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d36fbf95dc45300fcc46d1cdf18ee0d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d36fbf95dc45300fcc46d1cdf18ee0d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/9bacb73de9fae4b43312c71e7d1895e9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/9bacb73de9fae4b43312c71e7d1895e9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d53d08034fbe09f3f08ef5db293efed0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/d53d08034fbe09f3f08ef5db293efed0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/47183db8e1bfb9c000e0d7ed83d21149/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/47183db8e1bfb9c000e0d7ed83d21149/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a32b5b35a691aca1590c21731a97b164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a32b5b35a691aca1590c21731a97b164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7778c4be03ef67b37a3c08f28144a200/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7778c4be03ef67b37a3c08f28144a200/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c340e7e5547c57c34632f6d65bef5b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c340e7e5547c57c34632f6d65bef5b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fe528bf8dfc4bd69dc8f207622ec09a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fe528bf8dfc4bd69dc8f207622ec09a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/645c1af95e85a3a53dc53c77ff1131ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/645c1af95e85a3a53dc53c77ff1131ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/3170a245ad5f4756812bf20634907c5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/3170a245ad5f4756812bf20634907c5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bb85bc501cfa21ba2ac97f52c8f4989c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bb85bc501cfa21ba2ac97f52c8f4989c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc423d4d4e7ace40ad2168c147311da6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/fc423d4d4e7ace40ad2168c147311da6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a023896a2d1af773aa31d9c6a8c765f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/a023896a2d1af773aa31d9c6a8c765f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/aa9af68d17426a94951964eca0e7612d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/aa9af68d17426a94951964eca0e7612d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e5b8445a1248c049f87cc71bdbd89d97/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e5b8445a1248c049f87cc71bdbd89d97/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cc1304d102c5c0644bf46a2da5f3bc00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cc1304d102c5c0644bf46a2da5f3bc00/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/1a73d8b511a21c1fa3c5e8ef0778cbe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/1a73d8b511a21c1fa3c5e8ef0778cbe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cd3f2f118d11a3d69f7dbdffeebac720/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/cd3f2f118d11a3d69f7dbdffeebac720/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/ed4af5faa761482ba679aba554172877/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/ed4af5faa761482ba679aba554172877/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/3bf0417386797a8d90b15b44f6ccf437/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/3bf0417386797a8d90b15b44f6ccf437/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/f178e043b89938de42ad6fd2c53175b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/f178e043b89938de42ad6fd2c53175b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/842d5002a9bcd77df8d99ddb92a22624/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/842d5002a9bcd77df8d99ddb92a22624/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/c945751546f7918f0d683c7dc5c6647a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/c945751546f7918f0d683c7dc5c6647a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/00bc986053d219454846c56efd6cb638/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/00bc986053d219454846c56efd6cb638/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bfd645f1f6c34f0894990bf8d571a03e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bfd645f1f6c34f0894990bf8d571a03e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/82d9435bc97482f1fad9ca845d222e26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/82d9435bc97482f1fad9ca845d222e26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/83c1ea964bf3731837df48f14b26b53d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/83c1ea964bf3731837df48f14b26b53d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5437e51d48c6e054c74b6c54bc1a47ac/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5437e51d48c6e054c74b6c54bc1a47ac/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/94cf918c272561ff3810b8136ebfe8d5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/94cf918c272561ff3810b8136ebfe8d5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/822d8c877b4d260995d0ef5d744feac7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/822d8c877b4d260995d0ef5d744feac7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c6a68392aa0d2baae396b408a56ea57/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/7c6a68392aa0d2baae396b408a56ea57/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e32833f271d60797b288980a4530e4e3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/e32833f271d60797b288980a4530e4e3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/0ddde2c47254afef8f3ab63dcc5aa223/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/0ddde2c47254afef8f3ab63dcc5aa223/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/906275721b85703cddfbf20d738e7368/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/906275721b85703cddfbf20d738e7368/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/55c23395bbdc0e77b94880feb569e231/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/55c23395bbdc0e77b94880feb569e231/AndroidManifest.xml:4:5-43
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+		ADDED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Nithin/myworks/pos/app/src/main/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/6954f532ecf23ac13720519dd05e8b85/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/61512d19d13e15a2244a5fa1abda21a1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/bdbb40b6e51b0d1794afbef8b572058e/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:29:9-63
+permission#com.example.kaanapos.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:32:22-76
+uses-permission#com.example.kaanapos.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.kaanapos
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:42:27-58
+category#com.example.kaanapos
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/63f5f7f75ab56474a1286564795acac5/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/5f51eeb6a487f6c94295fa44a0a05ee9/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/nithin/.gradle/caches/transforms-2/files-2.1/b898dcccf652b083551ddeb186f6e0f4/AndroidManifest.xml:24:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.1] /home/nithin/.gradle/caches/transforms-2/files-2.1/a28742f9178e2f89467a30b2496daf15/AndroidManifest.xml:26:13-74
